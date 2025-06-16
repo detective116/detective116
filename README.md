@@ -34,6 +34,9 @@
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-magdum-750128258/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:magdumsiddharth111@gmail.com)
+[![X](https://img.shields.io/badge/-X-black?logo=twitter&logoColor=white)](https://x.com/Siddhar13651260)
+
+
 
 <!--
 **detective116/detective116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
