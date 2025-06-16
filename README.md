@@ -9,7 +9,7 @@
 - 🌱 Currently learning: MERN Stack, Shell Scripting, Algo Trading, and Aptitude
 - 📚 Exploring: Image Processing, AI, Metasploit, and Nmap
 - 🧠 Passionate about: Technology, Trading Psychology, and Productivity
-- 📫 Reach me at: **[Your Email or LinkedIn]**
+- 📫 Reach me at: **[magdumsiddharth111@gmail.com]**
 
 ---
 
